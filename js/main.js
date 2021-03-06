@@ -57,7 +57,7 @@ $(document).ready(function() {
   });
 
   var typed = new Typed('.highlight', {
-  strings: ["Saurabh.", "a Developer.", " a Geek.", "an Indian."],
+  strings: ["Swati.", "a Developer.", " a Geek.", "an Indian."],
     // Optionally use an HTML element to grab strings from (must wrap each string in a <p>)
     stringsElement: null,
     // typing speed
